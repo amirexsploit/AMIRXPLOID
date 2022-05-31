@@ -5,7 +5,7 @@
 <img src="https://i.ibb.co/109cXYg/a1884ec0c203b5a0c452086240b41614.jpg" width="100%" alt="API Giphy logo"/>
 </p>
 </p>
-<h1 align="center">
+</h align="center">
   <b>Hello Programmers!<b> <a href="https://www.facebook.com/AMIRXPLOID" target="blank">AmirXploit</a> Was Here
 </h1>
 <p align="center">
