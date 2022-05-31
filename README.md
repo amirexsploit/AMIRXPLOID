@@ -8,6 +8,8 @@
 <h1 align="center">
   <b>Hello Programmers!<b> <a href="https://www.facebook.com/AMIRXPLOID" target="blank">AmirXploit</a> Was Here
 </h1>
+<p align="center">
+<a href="https://github.com/AMIRXPLOID/memek"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=sakera&theme=chartreuse-dark"></a>
 
 <p align="center">
  <a href="https://www.github.com/AMIRXPLOID"><img width="50" height="50" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667"></a>
