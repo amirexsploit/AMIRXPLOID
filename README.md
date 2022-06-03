@@ -11,7 +11,7 @@
 <p align="center">
 <a href="https://github.com/AMIRXPLOID/memek"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=sakera&theme=vision-friendly-dark"></a>
 </1h>
-<a href="https://github.com/AMIRXPLOID/Cr4ck"><img title="Cr4ck" src="https://github-readme-stats.vercel.app/api/pin/?username=yayan-XD&repo=Cr4ck&theme=vision-friendly-dark"></a>
+<a href="https://github.com/AMIRXPLOID/Cr4ck2"><img title="Cr4ck" src="https://github-readme-stats.vercel.app/api/pin/?username=yayan-XD&repo=Cr4ck&theme=vision-friendly-dark"></a>
 <p align="center">
    <img width="auto" height="auto" src='https://github-profile-trophy.vercel.app/?username=Dapunta&theme=monokai&row=1&column=5&no-frame=true'
 </h1>
